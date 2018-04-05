@@ -24,5 +24,6 @@ public class StartCircleIT {
         Assert.assertEquals("Тут описание еще одного сравнения", 1, 1);
         assertEquals(1, 1);
         assertEquals(1, 1);
+        assertEquals(1, 2);
     }
 }
