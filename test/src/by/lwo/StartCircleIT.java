@@ -23,5 +23,6 @@ public class StartCircleIT {
         System.out.println("----- Тест запустил опять и снова какую-то процедуру -----");
         Assert.assertEquals("Тут описание еще одного сравнения", 1, 1);
         assertEquals(1, 1);
+        assertEquals(1, 1);
     }
 }
